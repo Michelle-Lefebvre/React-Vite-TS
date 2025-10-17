@@ -1,23 +1,23 @@
 # React-Vite-TS
 
-React app built using Vite and TypeScript
+React app built using Vite, TypeScript, Bootstrap
 To start:
 
 ##Install
 Create App:
-npm create vite@4.1.0
+_npm create vite@4.1.0_
 
 open app:
-cd React-Vite-TS // app name
+_cd React-Vite-TS_ // app name
 
 install dependencies:
-npm install
+_npm install_
 
 open project in browser:
-npm run dev
+_npm run dev_
 
 Bootstrap:
-npm i bootstrap@5.2.3
+_npm i bootstrap@5.2.3_
 
 ##VS Code tricks
-CMD + D // to select multiple text
+_CMD + D_ // to select multiple text
